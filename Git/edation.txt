@@ -16,3 +16,9 @@ git blame "filename"
    : show line to line all code who create and when create and head
 .................................................................
                         
+.gitignore
+ 
+      :create file .gitignore by use vscode in root proge and select folder not send to git (skip)
+      example folder build 
+      
+....................................................................      
