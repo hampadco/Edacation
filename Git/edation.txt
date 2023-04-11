@@ -1,0 +1,8 @@
+
+//checkout -->for move on the commit
+   return the final commit ----> git checkout master
+
+//git log --oneline            -->show git log in one line 
+
+
+//git diff     -------> show final changes
